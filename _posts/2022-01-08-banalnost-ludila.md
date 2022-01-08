@@ -1,29 +1,14 @@
 ---
 layout: post
 title:  "Баналност лудила"
-date:   2022-01-08 23:42:42 +0100
-categories: jekyll update
+date:   2020-09-26 23:42:42 +0100
+categories: 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Изгледа да је за опис психо(пато)лошке ситуације у Србији, а и свету, неопходно измислити нови израз – баналност лудила. Алудирајући на термин који је Хана Арент смислила посматрајући суђење Ајхману у Израелу, под тим би подразумевали кршење свих научно-методолошких принципа (а самим тим и принципа здравог разума) у последњих пар месеци (година, деценија) на овим просторима.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Изгледа да се луцидни перформативи савремених српских интелектуалаца, који након што се закашљу, или не дај Боже кину одмах говоре како немају корону, могу посматрати као школски пример дискурса Другог, или српским речником речено – опсесивно-компулсивне радње. Трагичност српског народа лежи у томе што је тај Други постао и сам себи смешан, па тако више не можете на улици препознати ни поштеног лудака (сви имају сличну аргументацију).
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Да не говоримо о томе што је тешко препознати и поштеног алкохоличара, јер се на основу препоруке наше владе, грађани ове земље на сваких десет минута прскају дезинфицијентним средством. Врло је могуће да ћемо ускоро једни другима, као Енглези за време епидемије куге, говорити:  God bless you! Како се сада чини, као што је хомосексуалност избачена из групе обољења која се сматрају дисфункцијама у сексуалном понашању (парафилије), тако ће се и закључци засновани на потпуно ирационалним аргументима у неким случајевима, уколико они одговарају прописаним мерама политичке елите Србије, сматрати потпуно легитимним. 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+На тај начин ће се, можемо слободно да се усудимо да изговоримо тако нешто, нестати граница између свега што су Блојлер и Јунг узимали за предмет свог истраживања (махом психозе) и просечног интелкта у Србији. На крају можемо да закључимо: Препоруке наше “струке” можемо (а и не морамо) узети у обзир исто онолико колико су и немачки официри узимали у обзир наређења својих претпостављених током Другог Светског рата. Да ли ће нама моћи неко да суди, на суду Разума, то је већ друго питање. У сваком случају можемо да се бранимо исто као и Ајхман: Говорећи да смо само поступали по наређењима…
