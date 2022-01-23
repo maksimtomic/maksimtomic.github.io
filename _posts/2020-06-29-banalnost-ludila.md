@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Баналност лудила"
 date:   2020-06-29 18:00:42 +0100
 categories:

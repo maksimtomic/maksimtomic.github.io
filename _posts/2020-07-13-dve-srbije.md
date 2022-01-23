@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Две Србије"
 date:   2020-07-13 18:00:42 +0100
 categories: 

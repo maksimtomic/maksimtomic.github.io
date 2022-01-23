@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Хомо сапијенс – верзија 2020"
 date:   2020-10-24 15:00:42 +0100
 categories:
